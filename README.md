@@ -2,7 +2,7 @@
 
 Demos for the tutorial on how to use the MeshSurfaceSampler in Three.js to create interesting effects.
 
-![SurfaceSampling](https://user-images.githubusercontent.com/43752457/131747971-25155154-95ad-4122-a79a-a6ff5267d4dd.png)
+![SurfaceSampling](https://user-images.githubusercontent.com/43752457/131749115-f84b229b-6767-4e82-8ada-219f6945a51d.png)
 
 
 ## Installation
